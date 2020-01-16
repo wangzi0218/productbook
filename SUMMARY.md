@@ -1,16 +1,17 @@
 # Table of contents
 
 * [卷首语](README.md)
+* [什么是产品经理](shen-me-shi-chan-pin-jing-li.md)
 
 ## 通用技能
 
-* [沟通、学习、执行与思维逻辑](tong-yong-ji-neng/gou-tong-xue-xi-zhi-hang-yu-si-wei-luo-ji.md)
 * [公司与个人的关系](tong-yong-ji-neng/gong-si-yu-ge-ren-de-guan-xi.md)
 * [产品经理是谁](tong-yong-ji-neng/chan-pin-jing-li-shi-shui.md)
 * [做事的方法论](tong-yong-ji-neng/zuo-shi-de-fang-fa-lun.md)
 * [如何建立良好沟通技能](tong-yong-ji-neng/ru-he-jian-li-liang-hao-gou-tong-ji-neng.md)
 * [保持成长的要素](tong-yong-ji-neng/bao-chi-cheng-chang-de-yao-su.md)
 * [优秀书籍推荐](tong-yong-ji-neng/you-xiu-shu-ji-tui-jian.md)
+* [沟通、学习、执行与思维逻辑](tong-yong-ji-neng/gou-tong-xue-xi-zhi-hang-yu-si-wei-luo-ji.md)
 
 ## 职业素养
 
