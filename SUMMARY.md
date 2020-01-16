@@ -32,7 +32,8 @@
 
 ## 优质资源
 
-* [书籍](you-zhi-zi-yuan/shu-ji.md)
+* [书籍（产品/设计）](you-zhi-zi-yuan/shu-ji.md)
+* [书籍（市场/社科/思维/管理）](you-zhi-zi-yuan/shu-ji-shi-chang-she-ke-si-wei-guan-li.md)
 * [网站](you-zhi-zi-yuan/wang-zhan.md)
 * [博客或RSS订阅](you-zhi-zi-yuan/bo-ke-huo-rss-ding-yue.md)
 
