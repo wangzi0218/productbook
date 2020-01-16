@@ -2,6 +2,7 @@
 
 * [卷首语](README.md)
 * [什么是产品经理](shen-me-shi-chan-pin-jing-li.md)
+* [快速学习](kuai-su-xue-xi.md)
 
 ## 通用技能
 
